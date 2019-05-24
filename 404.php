@@ -1,0 +1,1 @@
+requested page does not exists! <a href="index.php?page=home">click here to go back</a>
